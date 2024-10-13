@@ -1,0 +1,14 @@
+.banner{
+    background-image: url(https://cdn.sumup.store/shops/78705045/settings/th1024/a9a9e493-c18c-4730-94e1-4c6e9b8dd7bc.png);
+    background-size: cover;
+    background-repeat: no no-repeat;
+    width: 100%;
+    height: 90vh;
+}
+.cover{
+    width: 100%;
+    height: 90vh;
+    background-color: black;
+    opacity: 0.4;
+}
+

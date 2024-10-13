@@ -1,0 +1,26 @@
+export const Meels =[
+    {
+       image:"https://www.forksandfingers.co.uk/wp-content/uploads/2019/06/Pounded-Yam.jpg",
+       title:"Semo"
+    },
+    {
+       image:"https://images.timbu.com/contents-5578efc6eaf94ee6beeedd67ed90e239/57a89aa4-a38c-41b4-b3c8-6e5b27037b6f.png",
+       title:"Jollof"
+    },
+    {
+       image:"https://miro.medium.com/v2/resize:fit:1400/0*Ye-z3Cbc7XQYeJq6.jpg",
+       title:"MOiMoi"
+    },
+    {
+       image:"https://allnigerianfoods.com/wp-content/uploads/2015/02/porridge-beans.jpg",
+       title:"Beans"
+    },
+    {
+       image:"https://c7684bdb45.mjedge.net/wp-content/uploads/zikoko/2021/07/images-17-3.jpeg",
+       title:"FuFu"
+    },
+    {
+       image:"https://theplanetd.com/images/Nigerian-Food-Egusi-Soup.jpg",
+       title:"Egusi"
+    }
+]
